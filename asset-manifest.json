@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portal/static/css/main.2f2f3992.css",
-    "main.js": "/portal/static/js/main.8a6a8318.js",
+    "main.js": "/portal/static/js/main.7ece7153.js",
     "static/js/453.3e49419c.chunk.js": "/portal/static/js/453.3e49419c.chunk.js",
     "static/media/college.jpg": "/portal/static/media/college.91811672bc002500d829.jpg",
     "static/media/art-exhibition.jpg": "/portal/static/media/art-exhibition.d0794cacc1bbaaa17d30.jpg",
@@ -10,11 +10,11 @@
     "static/media/tech-conference.jpg": "/portal/static/media/tech-conference.722276251a06bc81273b.jpg",
     "index.html": "/portal/index.html",
     "main.2f2f3992.css.map": "/portal/static/css/main.2f2f3992.css.map",
-    "main.8a6a8318.js.map": "/portal/static/js/main.8a6a8318.js.map",
+    "main.7ece7153.js.map": "/portal/static/js/main.7ece7153.js.map",
     "453.3e49419c.chunk.js.map": "/portal/static/js/453.3e49419c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f2f3992.css",
-    "static/js/main.8a6a8318.js"
+    "static/js/main.7ece7153.js"
   ]
 }
